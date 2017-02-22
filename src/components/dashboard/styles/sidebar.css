@@ -1,3 +1,16 @@
+.GameDash {
+  background-image: url(http://www.imgbase.info/images/safe-wallpapers/video_games/eve_online/50868_eve_online.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+}
+
+#headingmove {
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  color: #282c34;
+}
+
 .gamedash-sidebar {
   width: 22%;
   height: 100vh;
